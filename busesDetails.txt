@@ -1,0 +1,10 @@
+1009,moon ways,multan,Hunza,00:30,40,39
+1001,Ali,D.G.khan,Lahore,01:15,40,38
+1007,dewoo express,Queta,Lahore,02:30,40,40
+1006,dewoo bus,Islamabad,Multan,5:00,40,40
+1003,moon ways,multan,karachi,06:00,40,40
+1004,sky ways,peshawar,lahore,08:00,40,40
+1002,skyways,islamabad,lahore,10:30,40,40
+1008,sky ways,Islamabad,Karachi,16:00,40,40
+1010,Dawoo express,Bahawalpur,Faisalabad,23:00,40,40
+1005,moon ways,multan,muree,24:00,40,40
