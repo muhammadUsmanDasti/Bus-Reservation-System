@@ -26,3 +26,13 @@ It allows **admin** and **customers** to interact with a text-based system for m
    signUpData.txt # Stores customer credentials
    adminlogin.txt # Stores admin credentials
    .gitignore # Git ignore rules
+**License**
+  This project is licensed under the MIT License.
+  **Projrct Info**
+  Student Name: Muhammad Usman Dasti
+  Supervisor: Sir Muhammad Waseem
+  Department: Computer Science, UET Lahore
+  Semester: 1st Semester Final Project
+  Year: 2025
+  **Connect**
+Feel free to connect with me on [linkdIn](https://www.linkedin.com/in/muhammad-usman-dasti-72058b322/) or contribute improvements to    this project
